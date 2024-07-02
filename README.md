@@ -27,6 +27,12 @@ First make sure to have the data in the same folder in a file called `pvc.db`. T
 streamlit run main.py
 ```
 
+
+
+https://github.com/finsberg/visualize-pvc/assets/2010323/4a9ba529-2c71-472d-be73-fdcb22ff696f
+
+
+
 ## Contributors
 Henrik Finsberg (henriknf@simula.no)
 
